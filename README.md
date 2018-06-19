@@ -6,9 +6,9 @@ Iceberg is a bookmark application. You can create icebergs (categories) to sort 
 
 ### Iceberg link
 
-Username : RomainChr
-Password : RomainChr
-http://iceberg.romainchery.fr - automatic!
+- Username : RomainChr
+- Password : RomainChr
+- http://iceberg.romainchery.fr
 
 ## Screenshots
 
