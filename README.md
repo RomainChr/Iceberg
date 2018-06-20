@@ -30,3 +30,27 @@ Iceberg is a bookmark application. You can create icebergs (categories) to sort 
 * Express
 * Passport.js (Token Authentication)
 * MongoDB
+
+
+# Installation
+
+Simply clone this repo :
+git clone
+
+npm install
+
+Start MongoDB : 
+mongod
+
+### Dev : 
+http://localhost:8080
+
+Front :
+- npm run dev
+
+Back :
+- npm run dev_server
+
+### Production : 
+http://localhost:3000
+- npm start
