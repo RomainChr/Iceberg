@@ -2,7 +2,7 @@
   <div>
     <b-nav class="col-md-9 col-lg-9 px-4 ml-sm-auto bg-light nav navIcedrop py-2" v-if="iceberg">
       <h5 class="py-2">{{ iceberg.title | capitalize}}</h5>
-      <form class="form-inline mt-0 my-button">
+      <form class="form-inline mt-0 my-button d-block">
         <router-link :to="'/'+ iceberg._id + '/new'" tag="button" class="btn btn-outline-success" @click.prevent="addIceberg" v-if="iceberg">Ajouter un Icedrop</router-link>
       </form>
     </b-nav>
