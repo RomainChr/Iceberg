@@ -8,7 +8,7 @@ Iceberg is a bookmark application. You can create icebergs (categories) to sort 
 
 - Username : RomainChr
 - Password : RomainChr
-- http://iceberg.romainchery.fr
+- https://iceberg-project-romainchr.herokuapp.com/
 
 ## Screenshots
 
